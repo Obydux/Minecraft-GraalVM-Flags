@@ -9,10 +9,10 @@
 ::
 
 :: This is how much RAM in MB you plan to allocate to your server.
-set /A RAM=2048
+set /A RAM=5120
 
 :: This is your server's jar name.
-set JAR_NAME=server.jar
+set JAR_NAME=paperclip.jar
 
 :: Set this to true if you're using a VPS.
 set VPS=false
