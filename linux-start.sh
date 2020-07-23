@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #
 # This startup script was put together by Ovydux.
 # To use this startup script you need have OpenJ9 JVM installed.
@@ -18,7 +16,7 @@ JAR_NAME=paperclip.jar
 VPS=false
 
 
-## DON'T TOUCH ANYTHING BELOW THIS LINE(!!!)
+## DON'T TOUCH ANYTHING BELLOW THIS LINE(!!!)
 
 NURSERY_MIN=$(($RAM / 2))
 NURSERY_MAX=$(($RAM * 5 / 6))
