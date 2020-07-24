@@ -9,5 +9,5 @@ If you wanna read more about ZGC on Minecraft read [this blog](https://krusic22.
 
 
 
-  If you're using a VPS add -Xtune:virtualized flag before -jar.
+  If you're using a VPS add '-Xtune:virtualized' flag before '-jar <jar_name.jar>'
 
