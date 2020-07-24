@@ -21,5 +21,5 @@
 
 
 
-  If you're using a VPS add "-Xtune:virtualized" flag before "-jar <jar_name.jar>"
+  If you're using a VPS add "-Xtune:virtualized" flag before "-jar jar_name.jar"
 
