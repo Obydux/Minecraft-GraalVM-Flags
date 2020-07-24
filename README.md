@@ -1,12 +1,12 @@
-  [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/98zrwn8)  
-  # Startup flags's requirements and information:
 
+  # Startup flags's requirements and information:
+  [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/98zrwn8)
+  [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()
 
   These flags require you to have OpenJ9 and Java 13 or higher.
 
 
-  The reason these flags are better than [Aikar's flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) is because they use the ZGC (Z Garbage Collector) instead of G1GC (G1 Garbage Collector) that only works on Java 11+, but it require Java 13+ because it uses some Java 13+ flags and ZGC is faster on Java 13+.
-If you wanna read more about ZGC on Minecraft read [this blog](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc/). It also requires OpenJ9 because it uses OpenJ9 only flags. I've added '-Dusing.aikars.flags=https://mcflags.emc.gs' and '-Daikars.new.flags=true' flags so Aikar's timings site says you're using Aikar's flags.
+  The reason these flags are better than [Aikar's flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) is because they use the ZGC (Z Garbage Collector) instead of G1GC (G1 Garbage Collector) that only works on Java 11+, but it require Java 13+ because it uses some Java 13+ flags and ZGC is faster on Java 13+. If you wanna read more about ZGC on Minecraft read [this blog](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc/). It also requires OpenJ9 because it uses OpenJ9 only flags. I've added '-Dusing.aikars.flags=https://mcflags.emc.gs' and '-Daikars.new.flags=true' flags so Aikar's timings site says you're using Aikar's flags.
 
 
 
