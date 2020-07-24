@@ -2,9 +2,9 @@
 
   # The startup script
   
-  JAR_NAME = paperclip.jar
+    JAR_NAME = paperclip.jar
   
-  HEAP=5120
+    HEAP=5120
 
 
   NURSERY_MIN=$(($HEAP / 2))
