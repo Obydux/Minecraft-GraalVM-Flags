@@ -3,11 +3,11 @@
 
   These flags require you to have OpenJ9 and Java 13 or higher.
 
-  `# Your server jar name
+  ` Your server jar name
   JAR_NAME = paperclip.jar
-  # How much RAM do you want to allocate (in MB)
+   How much RAM do you want to allocate (in MB)
   HEAP=5120
-  # Okay you're done
+   Okay you're done
 
 
   NURSERY_MIN=$(($HEAP / 2))
