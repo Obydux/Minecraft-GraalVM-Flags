@@ -1,6 +1,5 @@
-
-  # Startup flags's requirements and information:
   [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/98zrwn8)
+  # Startup flags's requirements and information:
 
   These flags require you to have OpenJ9 and Java 13 or higher.
 
