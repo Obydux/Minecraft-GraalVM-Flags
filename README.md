@@ -1,4 +1,4 @@
-  # Startup script's requirements and information:
+  # Startup flags's requirements and information:
 
 
   These flags require you to have OpenJ9 and Java 13 or higher.
