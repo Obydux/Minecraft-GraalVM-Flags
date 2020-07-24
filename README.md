@@ -1,7 +1,7 @@
 
   # Startup flags's requirements and information:
   [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/98zrwn8)
-  [![GitHub stars](https://img.shields.io/github/stars/tterb/playmusic.svg?style=social&label=Star)](https://github.com/Ovydux/MC-Startup-Flags)
+  [![GitHub stars](https://img.shields.io/github/Ovydux/MC-Startup-Flags)](https://github.com/Ovydux/MC-Startup-Flags)
 
   These flags require you to have OpenJ9 and Java 13 or higher.
 
