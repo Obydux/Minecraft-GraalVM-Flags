@@ -9,3 +9,5 @@
 
   java8+.sh Java 8+
 
+# If you're using a VPS and have OpenJ9 on your machine, add -Xtune:virtualized flag before -jar.
+
