@@ -1,2 +1,5 @@
-# MC-Startup-Script
-To use this startup script you need to have atleast Java 8 with the [OpenJ9](https://www.eclipse.org/openj9) JVM.
+# Startup script's requirements:
+openj9-java13+.sh - [OpenJ9](https://www.eclipse.org/openj9/) with Java 13+
+java-13+.sh - Java 13+
+openj9.sh - [OpenJ9](https://www.eclipse.org/openj9/) with Java 8+
+java8+.sh Java 8+
