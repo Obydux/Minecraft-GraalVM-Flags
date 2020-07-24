@@ -3,6 +3,7 @@
   # The startup script
   
   JAR_NAME = paperclip.jar
+  
   HEAP=5120
 
 
