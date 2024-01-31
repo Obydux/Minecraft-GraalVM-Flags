@@ -1,7 +1,7 @@
 Information
 ======
 
-These Java flags are tuned for Minecraft servers ran with the GraalVM Java Runtime which you can download from [here](www.graalvm.org/downloads/). They have been tested against both Java 17 and 21 and **they only work on Linux**.
+These Java flags are tuned for Minecraft servers ran with the GraalVM Java Runtime which you can download from [here](https://www.graalvm.org/downloads/). They have been tested against both Java 17 and 21 and **they only work on Linux**.
 
 GraalVM Java Flags
 ======
