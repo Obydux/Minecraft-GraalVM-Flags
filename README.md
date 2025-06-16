@@ -1,4 +1,4 @@
-[![](https://img.shields.io/discord/1263839827661557801)](https://discord.gg/MC2BzcE3vx)
+[![](https://img.shields.io/discord/1383468620566237234)](https://discord.gg/sQ6VmWDzN3)
 [![](https://img.shields.io/github/sponsors/Obydux)](https://github.com/sponsors/Obydux)
 
 Information
