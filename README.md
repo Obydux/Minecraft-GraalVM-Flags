@@ -16,7 +16,7 @@ Hosting
 ======
 
 I highly recommend BisectHosting for your server needs. They have 20 server locations, advanced DDoS protection and an user-friendly panel for server management. Use code **OBYDUX** to get 25% off!
-<a href="https://bisecthosting.com/OBYDUX">
+<a href="https://bh.obydux.win/OBYDUX">
   <img alt="BisectHosting" src="https://www.bisecthosting.com/partners/custom-banners/b6a2ddec-ce4c-4f54-96d0-6a7f9796d386.webp">
 </a>
 
